@@ -1,39 +1,7 @@
 # bot-template
 This script creates a blank template for developing an aiogram bot
 
-📁 Example_Bot
-
-|_ .env
-
-|_ .env.example
-
-|_ .gitignore
-
-|_ main.py
-
-|_ 📁 config_data
-
-|  |_ config.py
-
-|_ 📁 filters
-
-|  |_ filters.py
-
-|_ 📁 handlers
-
-|  |_ other.py
-
-|  |_ user.py
-
-|_ 📁 lexicon
-
-|  |_ lexicon.py
-
-|_ 📁 middlewares
-
-    |_ inner.py
-    
-    |_ outer.py
+![image](https://github.com/user-attachments/assets/997a89af-63da-4755-b0f6-8d4d5b67a3df)
 
 
 * create a folder Example_Bot
